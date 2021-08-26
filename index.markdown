@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome! Dental Touch is a dental clinic in Mysore.
+Welcome! We are a dental clinic situated in Mysore.
 
 You can schedule your appointment by mailing us at [dental.touch@gmail.com](mailto:dental.touch@gmail.com) or phoning +91 1234567899.
 
