@@ -1,7 +1,7 @@
 title: Dental Touch
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dental clinic.
+  dental clinic
 baseurl: "/test" # the subpath of your site, e.g. /blog
 url: "https://beli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
